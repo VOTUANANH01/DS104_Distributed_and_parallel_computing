@@ -1,1 +1,1 @@
-# DS104_Distributed-and-parralel-computing
+# DS104_Distributed_and_parallel_computing
