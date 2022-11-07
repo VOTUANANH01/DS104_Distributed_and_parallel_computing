@@ -5,4 +5,5 @@ kafka_sever='localhost:9092'
 producer=KafkaProducer(bootstrap_servers=kafka_sever)
 
 producer.send(topic_name, b'Hello world')
+print("Send successfully")
 producer.flush()
