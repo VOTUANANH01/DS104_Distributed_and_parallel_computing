@@ -9,3 +9,7 @@
 - Tutorial 9 (Distributed streaming): [github fork version](https://github.com/VOTUANANH01/DistributedStreamingWithPythonAndKafka) 
 - Tutorial 10 (Anomaly detection): [github fork version](https://github.com/VOTUANANH01/kafkaml-anomaly-detection) 
 - Spotify recommendation system: [github fork version](https://github.com/VOTUANANH01/Spotify-Recommendation-System-using-Pyspark-and-Kafka)
+- Order book simulation with Kafka and Streamlit: [github fork version](https://github.com/VOTUANANH01/order-book-simulation)
+- pizza-faker-stream-with-kafka-and-python: [my github version](https://github.com/VOTUANANH01/pizza-faker-stream-with-kafka-and-python)
+
+
